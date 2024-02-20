@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&repeat=false&lines=UNMSM;" />
 </h1>
 
-<h3 align="center">Interesado en el área de la Ciencia y Análisis de Datos 🧑🏼‍💻🆙</h3>
+<h3 align="center">Apasionado por la Ciencia y Análisis de Datos 🧑🏼‍💻🆙</h3>
 
 ## 🌐 Socials:
 <div align="center"> 
