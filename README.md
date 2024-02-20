@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/lider-jacoby-flores-calle-a6942a237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discord.gg/risingslayer_28" target="_blank">
+  <a href="https://discord.gg/RpRNNRyESt" target="_blank">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
